@@ -1,0 +1,11 @@
+div {
+    border: 5px solid purple;
+    padding: 10px;
+    background: #EAEAEA;
+    width: 60%
+}
+
+h1 {
+    border-bottom: 10px dotted purple;
+    text-decoration: none;
+}
