@@ -1,0 +1,25 @@
+.puang {
+    margin-top: 90px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 600;
+  }
+  .puang_title {
+    margin-bottom: 40px;
+    font-size: 25px;
+  }
+
+
+div.aa{
+    float: left;
+    width: 360px;
+    margin: 5px;
+    border: 10px;
+    text-align: center;
+}
+
+p {
+    color:black;
+}

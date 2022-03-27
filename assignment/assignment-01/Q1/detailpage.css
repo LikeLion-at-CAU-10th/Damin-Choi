@@ -1,0 +1,31 @@
+.detail {
+    margin-top: 90px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 600;
+  }
+  .detail_title {
+    margin-bottom: 40px;
+    font-size: 25px;
+  }
+
+div {
+    text-align: center;
+}
+
+
+.bb {
+    text-align: center;
+}
+
+#Button {
+    background-color:bisque;
+    margin:auto;
+    display:block;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 8px;
+}
