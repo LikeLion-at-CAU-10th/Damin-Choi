@@ -8,4 +8,13 @@ div {
 h1 {
     border-bottom: 10px dotted purple;
     text-decoration: none;
+    color:darkviolet
+}
+
+h3 {
+    color:darkgrey;
+}
+
+a:hover {
+    color: peru;
 }
