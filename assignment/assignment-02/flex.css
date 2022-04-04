@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(238, 220, 196);
+    margin: 200px
+}
+
+
+.layout-container{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 600px;
+    background-color: rgb(82, 80, 80);
+    justify-content: space-evenly;
+}
+
+
+.layout-title{
+    display: flex;
+    justify-content: center;
+    flex-basis: 14%;
+}
+
+.title{
+    background-color: rgb(230, 169, 169);
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.layout-recent{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 28%;
+}
+
+.recent{
+    background-color: rgb(231, 231, 176);
+    width: 23.6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.layout-popular{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 53%;
+}
+
+.popular{
+    background-color: rgb(133, 197, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popular1{
+    flex-basis: 56.5%;
+}
+
+.popular2{
+    flex-basis: 19.5%;
+}
+
+.popular3{
+    flex-basis: 19.5%;
+}
