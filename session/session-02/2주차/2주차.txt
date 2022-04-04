@@ -1,0 +1,23 @@
+ctrl/ -> 주석 단축키
+
+flex-wrap-> default: nowwrap
+공간이 없으면 줄바꿈해줌
+ex) flex-flow: row wrap
+
+justify-contents: center
+-> 중심축 방향으로 센터 정렬
+
+
+justify-contents: space
+-> 여백관련(3가지 속성 존재)
+   around의 경우 주변네 같은 값 여백을 주기 때문에 겹치는 부분은 여백이 넓어보임
+   evenly의 경우 일정하게
+
+align-items : center
+->교차축 기준 정렬
+
+
+
+각 아이템의 폭을 비율로 줘서 유동적으로 조절 할 때
+flex-basis사용
+ex) 20%씩 5개 -> 컨테이너에 꽉참
