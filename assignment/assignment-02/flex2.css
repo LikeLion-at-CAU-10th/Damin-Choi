@@ -1,0 +1,284 @@
+<<<<<<< HEAD:session/session-02/assignment/flex2.css
+body{
+    background-color: rgb(238, 220, 196);
+    margin: 200px
+}
+
+.layout-container{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 600px;
+    background-color: rgb(82, 80, 80);
+    justify-content: space-evenly;
+}
+
+.layout-line1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 9%;
+}
+
+.line1{
+    background-color: rgb(230, 169, 169);
+    width: 48%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block1{
+    flex-basis: 18%;
+}
+
+.block2{
+    flex-basis: 78%;
+}
+
+.layout-line2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 9%;
+}
+
+.line2{
+    background-color: rgb(231, 231, 176);
+    width: 31.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.layout-line3{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 19%;
+}
+
+.line3{
+    background-color: rgb(231, 231, 176);
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block6{
+    flex-basis: 38%;
+}
+
+.block7{
+    flex-basis: 58%;
+}
+
+.layout-line4{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 19%;
+}
+
+.line4{
+    background-color: rgb(231, 231, 176);
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block8{
+    flex-basis: 58%;
+}
+
+.block9{
+    flex-basis: 38%;
+}
+
+.layout-line5{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 38%;
+}
+
+.line5{
+    background-color: rgb(133, 197, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block10{
+    flex-basis: 38%;
+    height: 98%;
+}
+
+.layout-line6{
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-basis: 59%;
+    background-color: rgb(82, 80, 80);
+}
+
+.block11{
+    width: 98%;
+    height: 48%;
+}
+
+.layout-line7{
+    background-color: rgb(82, 80, 80);
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+    height: 49%;
+}
+
+.block12{
+    width: 49%;
+    height: 94%;
+}
+
+.block13{
+    width: 49%;
+    height: 94%;
+=======
+body{
+    background-color: rgb(238, 220, 196);
+    margin: 200px
+}
+
+.layout-container{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 600px;
+    background-color: rgb(82, 80, 80);
+    justify-content: space-evenly;
+}
+
+.layout-line1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 9%;
+}
+
+.line1{
+    background-color: rgb(230, 169, 169);
+    width: 48%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block1{
+    flex-basis: 18%;
+}
+
+.block2{
+    flex-basis: 78%;
+}
+
+.layout-line2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 9%;
+}
+
+.line2{
+    background-color: rgb(231, 231, 176);
+    width: 31.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.layout-line3{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 19%;
+}
+
+.line3{
+    background-color: rgb(231, 231, 176);
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block6{
+    flex-basis: 38%;
+}
+
+.block7{
+    flex-basis: 58%;
+}
+
+.layout-line4{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 19%;
+}
+
+.line4{
+    background-color: rgb(231, 231, 176);
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block8{
+    flex-basis: 58%;
+}
+
+.block9{
+    flex-basis: 38%;
+}
+
+.layout-line5{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 38%;
+}
+
+.line5{
+    background-color: rgb(133, 197, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block10{
+    flex-basis: 38%;
+    height: 98%;
+}
+
+.layout-line6{
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-basis: 59%;
+    background-color: rgb(82, 80, 80);
+}
+
+.block11{
+    width: 98%;
+    height: 48%;
+}
+
+.layout-line7{
+    background-color: rgb(82, 80, 80);
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+    height: 49%;
+}
+
+.block12{
+    width: 49%;
+    height: 94%;
+}
+
+.block13{
+    width: 49%;
+    height: 94%;
+>>>>>>> b88f1f769ab60e779f8ba2305d43ddedeaf8b04d:assignment/assignment-02/flex2.css
+}
